@@ -4,9 +4,9 @@ layout: tabbed-assignment
 
 # Overview
 
-<img class="overview-image" src="assets/images/screen-capture.png">
+If you've looked at your test results and you're not happy with the result, all is not lost.
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+The test gives you feedback on what you understand and what you don't. Now in the time to fill in the holes and make your grade whole again.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
