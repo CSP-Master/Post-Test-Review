@@ -4,10 +4,8 @@ layout: tabbed-assignment
 
 # Submission Instructions
 
-1. Start by making an editable copy of the [submission template][template] for this assignment. 
-If you need tips on how to do this, expand the instructions below. Then…
-1. Make sure that you have completed the [template][] completely.
-1. Submit as usual.
+1. After you have completed the post-test review submit it through Canvas.
+1. Make an appointment to go over the review with me after school or during lunch on an A day.
 
 {% include submission-boilerplate.html %}
 
