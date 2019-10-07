@@ -4,11 +4,16 @@ layout: tabbed-assignment
 
 # Instructions
 
-1. This, then
-1. That, and finally
-1. The other thing
+## During Class
 
-## Notes
+1. Start by making a copy of the [review template][template] (click on the link, then make an editable copy (File > Make a copy).
+1. For each question that you missed:
+  -
+  -
+
+## Homework
+
+## 
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
